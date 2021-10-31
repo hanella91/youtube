@@ -3,4 +3,4 @@
 * usestate()
 * useEffect()
 * 구조분해할당
-* fetch 와 axios의 차이점 등
+* fetch 와 axios의 차이점
